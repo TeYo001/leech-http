@@ -54,4 +54,5 @@ dkms.conf
 # Custom
 build/
 cert/
+.clangd
 
